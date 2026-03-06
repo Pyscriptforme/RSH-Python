@@ -1,1 +1,1 @@
-Read the desc bro
+A reverse shell using python + sockets + subprocess 
