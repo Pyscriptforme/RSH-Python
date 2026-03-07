@@ -1,2 +1,2 @@
-A reverse shell using python + sockets + subprocess 
+A shell using python + sockets + subprocess 
 
